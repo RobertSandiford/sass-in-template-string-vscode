@@ -1,0 +1,3 @@
+[submodule "typescript-styled-plugin"]
+	path = typescript-styled-plugin
+	url = https://github.com/microsoft/typescript-styled-plugin.git

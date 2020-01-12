@@ -56,12 +56,13 @@
     ],
     "typescriptServerPlugins": [
       {
-        "name": "typescript-styled-plugin",
+        "name": "custom-ts-styled-ext",
         "enableForWorkspaceTypeScriptVersions": true
       }
     ]
   },
   "dependencies": {
+    "custom-ts-styled-ext": "file:../custom-ts-styled-ext",
     "typescript-styled-plugin": "0.15.0"
   },
   "devDependencies": {
