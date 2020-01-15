@@ -1,6 +1,6 @@
-# vscode-styled-components
+# scss-in-template-string-vscode
 
-Syntax highlighting and IntelliSense for [styled-components](https://github.com/styled-components/styled-components).
+Syntax highlighting and IntelliSense for css and scss in template strings.
 
 ![Syntax highlighting in action](demo.png)
 
@@ -11,7 +11,7 @@ Uses a CSS grammar built on top of [language-sass](https://github.com/atom/langu
 Inside VSCode, press `Ctrl+P`, and enter:
 
 ```
-ext install vscode-styled-components
+ext install scss-in-template-string-vscode
 ```
 
 It should be the top result.
@@ -21,9 +21,9 @@ It should be the top result.
 ## Features
 
 - Syntax highlighting for styled components in JavaScript and TypeScript.
-- Detailed CSS IntelliSense while working in styled strings.
+- Detailed CSS IntelliSense while working in template strings.
 - Syntax error reporting.
 
 ## Usage
 
-The styled-components extension adds highlighting and IntelliSense for styled-component template strings in JavaScript and TypeScript. See [plugin configuration](https://github.com/Microsoft/typescript-styled-plugin#configuration) for information on configuring the linter and other language features.
+The scss-in-template-string-vscode extension adds highlighting and IntelliSense for styled-component template strings in JavaScript and TypeScript. See [plugin configuration](https://github.com/Microsoft/typescript-styled-plugin#configuration) for information on configuring the linter and other language features.

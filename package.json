@@ -1,14 +1,14 @@
 {
-  "name": "vscode-styled-components",
-  "displayName": "vscode-styled-components",
-  "description": "Syntax highlighting for styled-components",
+  "name": "scss-in-template-string-vscode",
+  "displayName": "scss-in-template-string-vscode",
+  "description": "Syntax highlighting for css and scss in template strings",
   "version": "0.0.27",
   "publisher": "jpoissonnier",
   "icon": "logo.png",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/styled-components/vscode-styled-components.git"
+    "url": "https://github.com/tomko-team/scss-in-template-string-vscode.git"
   },
   "engines": {
     "vscode": "^1.5.0"
