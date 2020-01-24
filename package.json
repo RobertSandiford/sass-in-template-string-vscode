@@ -56,13 +56,13 @@
     ],
     "typescriptServerPlugins": [
       {
-        "name": "typescript-css-plugin",
+        "name": "@tomko/typescript-css-plugin",
         "enableForWorkspaceTypeScriptVersions": true
       }
     ]
   },
   "dependencies": {
-    "typescript-css-plugin": "file:../typescript-css-plugin"
+    "@tomko/typescript-css-plugin": "0.15.1"
   },
   "devDependencies": {
     "prettier": "^1.14.3",
