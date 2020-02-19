@@ -1,9 +1,9 @@
 {
-  "name": "scss-in-template-string-vscode",
-  "displayName": "scss-in-template-string-vscode",
+  "name": "scss-in-template-string",
+  "displayName": "scss-in-template-string",
   "description": "Syntax highlighting for css and scss in template strings",
-  "version": "0.0.27",
-  "publisher": "jpoissonnier",
+  "version": "0.0.1",
+  "publisher": "tomko-team",
   "icon": "logo.png",
   "license": "MIT",
   "repository": {
