@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
-  "name": "CSS (Styled Components)",
+  "name": "CSS",
   "patterns": [
     {
       "include": "#general"

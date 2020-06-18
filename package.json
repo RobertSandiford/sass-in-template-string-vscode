@@ -1,14 +1,14 @@
 {
-  "name": "scss-in-template-string",
-  "displayName": "scss-in-template-string",
-  "description": "Syntax highlighting for css and scss in template strings",
-  "version": "0.0.1",
-  "publisher": "tomko-team",
+  "name": "sass-in-template-string",
+  "displayName": "sass-in-template-string",
+  "description": "Syntax highlighting for CSS, SASS, SCSS in template strings",
+  "version": "0.0.2",
+  "publisher": "enhancedjs",
   "icon": "logo.png",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomko-team/scss-in-template-string-vscode.git"
+    "url": "https://github.com/enhancedjs/sass-in-template-string-vscode.git"
   },
   "engines": {
     "vscode": "^1.5.0"
@@ -26,7 +26,7 @@
       {
         "id": "source.css.styled",
         "aliases": [
-          "CSS (Styled Components)"
+          "CSS"
         ],
         "configuration": "./css.styled.configuration.json"
       }
@@ -56,17 +56,17 @@
     ],
     "typescriptServerPlugins": [
       {
-        "name": "@tomko/typescript-css-plugin",
+        "name": "@enhancedjs/typescript-css-plugin",
         "enableForWorkspaceTypeScriptVersions": true
       }
     ]
   },
   "dependencies": {
-    "@tomko/typescript-css-plugin": "0.15.1"
+    "@enhancedjs/typescript-css-plugin": "0.0.2"
   },
   "devDependencies": {
-    "prettier": "^1.14.3",
+    "prettier": "^2.0.5",
     "prettier-cli": "^0.1.0",
-    "vscode": "^1.1.26"
+    "vscode": "^1.1.37"
   }
 }
