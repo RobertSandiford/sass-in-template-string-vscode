@@ -16,6 +16,16 @@
   "categories": [
     "Programming Languages"
   ],
+  "keywords": [
+      "javascript",
+      "typescript",
+      "sass",
+      "scss",
+      "css",
+      "template string",
+      "template",
+      "string"
+  ],
   "scripts": {
     "format": "prettier --write '**/*.{js,jsx,md,json,css}'",
     "postinstall": "node ./node_modules/vscode/bin/install",
