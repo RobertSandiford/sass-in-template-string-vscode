@@ -2,7 +2,7 @@
   "name": "sass-in-template-string",
   "displayName": "sass-in-template-string",
   "description": "Syntax highlighting for CSS, SASS, SCSS in template strings",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "enhancedjs",
   "icon": "logo.png",
   "license": "MIT",
@@ -17,14 +17,14 @@
     "Programming Languages"
   ],
   "keywords": [
-      "javascript",
-      "typescript",
-      "sass",
-      "scss",
-      "css",
-      "template string",
-      "template",
-      "string"
+    "javascript",
+    "typescript",
+    "sass",
+    "scss",
+    "css",
+    "template string",
+    "template",
+    "string"
   ],
   "scripts": {
     "format": "prettier --write '**/*.{js,jsx,md,json,css}'",
@@ -72,7 +72,7 @@
     ]
   },
   "dependencies": {
-    "@enhancedjs/typescript-css-plugin": "0.0.2"
+    "@enhancedjs/typescript-css-plugin": "0.0.3"
   },
   "devDependencies": {
     "prettier": "^2.0.5",
