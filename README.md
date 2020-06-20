@@ -22,4 +22,4 @@ ext install enhancedjs.sass-in-template-string
 
 It should be the top result.
 
-[[Source](https://marketplace.visualstudio.com/items?itemName=enhancedjs.sass-in-template-string)]
+[[Marketplace](https://marketplace.visualstudio.com/items?itemName=enhancedjs.sass-in-template-string)]
